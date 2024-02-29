@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "com.github.homuler.mediapipe": {
-      "version": "file:com.github.homuler.mediapipe",
+      "version": "file:C:/Users/lterr/OneDrive/Desktop/com.github.homuler.mediapipe/com.github.homuler.mediapipe",
       "depth": 0,
-      "source": "embedded",
+      "source": "local",
       "dependencies": {}
     },
     "com.unity.collab-proxy": {
